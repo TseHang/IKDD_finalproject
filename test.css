@@ -228,12 +228,29 @@
 	top:-4em;
 	left:-4em;
 }
+#p13_2{
+	position: relative;
+	top:-5.6em;
+	left:-4em;
+	font-size: 0.8em;
+	font-weight: 700;
+	font-family: 'Dancing Script', cursive;
+}
 #p14{
 	color:white;
 	font-weight: 900;
 	position: relative;
 	top:-4em;
 	left:-6em;
+}
+#p14_2{
+	position: relative;
+	top:-5.6em;
+	left:-6em;
+	color:white;
+	font-size: 0.8em;
+	font-weight: 700;
+	font-family: 'Dancing Script', cursive;
 }
 #p15{
 	color:white;
@@ -257,7 +274,7 @@
 }
 #p16_2{
 	position: relative;
-	top:-5.5em;
+	top:-5.8em;
 	left:8em;
 	font-size: 27px;
 	line-height: 60px;

@@ -109,7 +109,6 @@ Reveal.addEventListener( 'slidechanged', function( event ) {
     $('#box-top').css("display","block");
     $('#box-bottom').css("display","block");
 
-    $("#p10_2").css("opacity" , 0) ;
     $("#p12_3").css("opacity" , 0) ;
     
   }
